@@ -1,4 +1,4 @@
-package t191028.limhyejung;
+package limhyejung;
 
 public class Test01 {
 
