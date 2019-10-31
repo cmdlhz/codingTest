@@ -1,6 +1,6 @@
 package dozero;
 
-public class Practice3 {
+public class LengthReturn {
 	public boolean solution(String s) {
 		boolean answer = true;
 		if (s.length() == 4 || s.length() == 6) {
@@ -15,8 +15,4 @@ public class Practice3 {
 		return answer;
 	}
 
-	public static void main(String[] args) {
-		Practice3 st = new Practice3();
-		System.out.println(st.solution("a123"));
-	}
 }
